@@ -1,0 +1,2 @@
+message = "Holis!"
+print(message)

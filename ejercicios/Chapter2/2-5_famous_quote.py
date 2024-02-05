@@ -1,0 +1,1 @@
+print("Albert Einstein dijo una vez: \"Una persona que nunca ha cometido un error nunca ha intentado nada nuevo.\"")
